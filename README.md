@@ -5,8 +5,7 @@ Final Peer Reviewed Project for Coursera: Getting and Cleaning Data
 
 The script assumes that the dataset has been downloaded and unzipped to the working directory.
 
-The source data can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
+The source data can be found at http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
 # Files
 
 CodeBook.md - includes information about the variables in the datasets, a description of how that dataset was created from the raw data above, and a description of the resulting datatsets

@@ -7,7 +7,7 @@ run_analysis.R performs the following steps fulfilling the steps prescribed in t
 * The datasets are modified to only include those columns with labels containing mean, Mean or std
 * All string values are converted to numerics
 * Activity numbers are replaced with the appropriate text labels
-* dataframes are created with the proper column names
+* Dataframes are then created with the proper column names
 * Activity and Subject are added to the dataframes
 * Test and Train Dataframes are merged
 * A tidy data set is created grouping by activity and subject with the mean of each other value
@@ -28,5 +28,5 @@ run_analysis.R performs the following steps fulfilling the steps prescribed in t
 * The following variables contain processed and labeled dataframes
 	* test_X_df -- Test Data
 	* train_X_df -- Train Data
-
+	* data -- Merged Test and Train Data
 
